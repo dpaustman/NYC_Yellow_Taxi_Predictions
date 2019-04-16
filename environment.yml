@@ -1,0 +1,12 @@
+name: ny_taxi_map
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - ipyleaflet
+  - ipywidgets
+  - matplotlib
+  - numpy
+  - pandas
+
+
