@@ -1,6 +1,6 @@
 # Визуализация прогнозов временных рядов на карте
 
-1. [Прогнозирование большого количества временных рядов с помощью моделей ARIMA](https://github.com/xsaq/NYC_Yellow_Taxi_Predictions_ARIMAs/edit/master/README.md)
+1. [Прогнозирование большого количества временных рядов с помощью моделей ARIMA](https://github.com/xsaq/NYC_Yellow_Taxi_Predictions_ARIMAs)
 2. [Прогнозирование временных рядов с помощью моделей XGBOOST](https://github.com/xsaq/NYC_Yellow_Taxi_Predictions_XGBOOSTs)
 3. Визуализация прогнозов временных рядов на карте
 
